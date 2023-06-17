@@ -1,3 +1,5 @@
 import "./style.css";
 
-console.log("Hello World!");
+import * as Storage from "./js/service/storage";
+
+console.log(Storage);
